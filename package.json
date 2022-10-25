@@ -1,5 +1,5 @@
 {
-  "name": "@streeva/webpack-hot-middleware",
+  "name": "@altescape/webpack-hot-middleware",
   "version": "2.25.3",
   "description": "Webpack hot reloading you can attach to your own server",
   "keywords": [
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/webpack-hot-middleware.git"
+    "url": "https://github.com/altescape/webpack-hot-middleware.git"
   },
   "author": "Glen Mailer <glen@stainlessed.co.uk>",
   "license": "MIT",
